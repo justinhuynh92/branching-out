@@ -1,6 +1,6 @@
 You found the second question!
 
-1. What is your favorite beverage?
+1. What is your favorite beverage? water
 
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
