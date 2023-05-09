@@ -1,6 +1,6 @@
 You found the third question!
 
-1. What is your favorite kind of weather?
+1. What is your favorite kind of weather? 70 degrees
 
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
