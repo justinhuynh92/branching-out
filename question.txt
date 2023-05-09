@@ -1,6 +1,6 @@
 You found the fourth question!
 
-1. What is your favorite Git command?
+1. What is your favorite Git command? push
 
 Once you've answered, add and commit your change, then push that new commit to the appropriate branch in your fork.
 
